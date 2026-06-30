@@ -71,3 +71,8 @@ iframe {
   margin-top: 15px;
   margin-bottom: 20px;
 }
+.note {
+  font-size: 14px;
+  color: gray;
+  font-style: italic;
+}
