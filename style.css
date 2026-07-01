@@ -82,24 +82,34 @@ iframe {
   }
 
   .card {
-    padding: 20px;
+    padding: 18px;
+    max-width: 100%;
   }
 
   h1 {
-    font-size: 36px;
+    font-size: 32px;
   }
 
   h2 {
-    font-size: 28px;
+    font-size: 24px;
   }
 
   p {
-    font-size: 18px;
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+  .subtitle {
+    font-size: 14px;
+  }
+
+  .project {
+    padding: 18px;
   }
 
   .button {
-    font-size: 18px;
-    padding: 12px 18px;
+    font-size: 16px;
+    padding: 10px 16px;
   }
 
   iframe {
