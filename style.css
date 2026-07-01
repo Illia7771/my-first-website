@@ -76,3 +76,16 @@ iframe {
   color: gray;
   font-style: italic;
 }
+@media (max-width: 600px) {
+  body {
+    padding: 15px;
+  }
+
+  .card {
+    padding: 20px;
+  }
+
+  iframe {
+    display: none;
+  }
+}
