@@ -116,3 +116,8 @@ iframe {
     display: none;
   }
 }
+#message {
+  color: rgb(118, 0, 139);
+  font-weight: bold;
+  margin-top: 15px;
+}
