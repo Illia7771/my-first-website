@@ -85,6 +85,23 @@ iframe {
     padding: 20px;
   }
 
+  h1 {
+    font-size: 36px;
+  }
+
+  h2 {
+    font-size: 28px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  .button {
+    font-size: 18px;
+    padding: 12px 18px;
+  }
+
   iframe {
     display: none;
   }
